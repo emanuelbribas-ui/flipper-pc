@@ -1,7 +1,8 @@
 Step 1: System PrerequisitesBefore running the Python script, you need the system-level tools that handle the heavy lifting.On Arch Linux:Bashsudo pacman -S git python-pip macchanger mdk4 aircrack-ng bluez bluez-utils
 On Kali Linux:Bashsudo apt update
 sudo apt install git python3-pip macchanger mdk4 aircrack-ng bluez bluez-utils
-Step 2: Clone and Setup EnvironmentOpen your terminal and run these commands to prepare your folder:Bash# Clone your repository (replace with your actual GitHub link)
+Step 2: Clone and Setup EnvironmentOpen your terminal and run these commands to prepare your folder:
+Bash# Clone
 git clone https://github.com/emanuelbribas-ui/flipper-pc/
 cd nebula-flipper
 
