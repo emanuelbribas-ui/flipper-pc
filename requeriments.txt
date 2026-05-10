@@ -1,4 +1,5 @@
 scapy
 flask
-bleak
 pyserial
+bleak
+python-dotenv
